@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5b7f0a73-028b-4038-94ad-79084948e999" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/src/add-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/src/add-content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一章/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +109,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/第一章" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/第一章/src" />
@@ -117,12 +118,16 @@
       <recent name="D:\test\webpackSinglejs\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/第二章/index.js" working-dir="$PROJECT_DIR$/第二章">
+      <method v="2" />
+    </configuration>
     <configuration name="webpack.config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack.config.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.webpack.config.js" />
       </list>
     </recent_temporary>
@@ -142,7 +147,8 @@
       <workItem from="1612419148645" duration="305000" />
       <workItem from="1612419547502" duration="155000" />
       <workItem from="1612420100543" duration="655000" />
-      <workItem from="1630576205827" duration="2785000" />
+      <workItem from="1630576205827" duration="3152000" />
+      <workItem from="1630633602416" duration="11812000" />
     </task>
     <servers />
   </component>

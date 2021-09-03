@@ -1,11 +1,15 @@
 const path=require('path')
 module.exports = {
-  entry: './第一章/src/index.js',
+  context: path.join(__dirname,'./src'),
+  entry: {
+    index:'./index.js',
+    vendor:'./libs.js'
+  },
   output:{
-    filename: "bundle.js"
+    filename: "[name].js"
   },
   mode:'development',
   devServer: {
-    contentBase: path.resolve(__dirname, './dist'),
-  },
+   publicPath:'/dist'
+  }
 }

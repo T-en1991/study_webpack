@@ -1,3 +1,3 @@
 export default function (){
-  document.write('hello word!wwd')
+  document.write('hello word!dwwdqdwΩ')
 }

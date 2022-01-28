@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b7f0a73-028b-4038-94ad-79084948e999" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/src/add-content.js" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/src/add-content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一章/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/第一章/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="5b7f0a73-028b-4038-94ad-79084948e999" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +140,9 @@
       <workItem from="1612419547502" duration="155000" />
       <workItem from="1612420100543" duration="655000" />
       <workItem from="1630576205827" duration="3152000" />
-      <workItem from="1630633602416" duration="11812000" />
+      <workItem from="1630633602416" duration="13795000" />
+      <workItem from="1630892164324" duration="3372000" />
+      <workItem from="1643376728241" duration="1479000" />
     </task>
     <servers />
   </component>
